@@ -4,4 +4,4 @@
 Reffer the code to understand concepts better.
 I will constantly try to make changes in  code with my experience.<h4>
 <h2>Concepts in Data Structures using python</h2>
-<h5><a href="https://github.com/asaikiran1999/Data-Structures/blob/main/DataStructures/1_Stack_in_DataStructures.ipynb">1.STACK in datastructures </h5>
+<h5><a href="https://github.com/asaikiran1999/Data-Structures/blob/main/DataStructures/1_Stack_in_DataStructures.ipynb">1.STACK in data structures </h5>
